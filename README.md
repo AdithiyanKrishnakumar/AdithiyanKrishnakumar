@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**AdithiyanKrishnakumar/AdithiyanKrishnakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Adithiyan Krishna 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Cybersecurity Student | Security Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Exploring Cybersecurity, Network Security, Ethical Hacking
+  and AI-driven Security Solutions.
+</p>
+
+---
+
+## About Me
+
+- 🎓 B.Tech Computer Science Engineering – Cybersecurity
+- 🔐 Interested in Network Security and Ethical Hacking
+- 🤖 Exploring AI/ML applications in Cybersecurity
+- 💻 Building practical security projects and experiments
+- 📚 Continuously learning and improving my technical skills
+
+## Technical Skills
+
+**Programming**
+- Python
+- Java
+
+**Cybersecurity Tools**
+- Kali Linux
+- Nmap
+- Burp Suite
+- Wireshark
+- Hashcat
+- Splunk
+
+**Areas of Interest**
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Security Automation
+- AI in Cybersecurity
+
+## Projects
+
+| Project | Description |
+|---|---|
+| SOS Threat Detection System | Security-focused threat detection project |
+| Password Strength Checker | Password analysis and threat detection |
+| Smart Patient Safety System | Embedded patient monitoring and safety project |
+
+## Currently Learning
+
+- Git and GitHub
+- Security Information and Event Management (SIEM)
+- AI/ML for Cybersecurity
+- Advanced Network Security
+
+---
+
+<p align="center">
+  <i>Learning, building and securing — one project at a time.</i>
+</p>
