@@ -22,7 +22,7 @@
 
 **Programming**
 - Python
-- Java
+- C
 
 **Cybersecurity Tools**
 - Kali Linux
